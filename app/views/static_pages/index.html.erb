@@ -1,0 +1,6 @@
+<h1>Wesh ça c'est l'ACCUEIL t'as vu !!</h1>
+<p><%@gossips = Gossip.all%></p>
+<p><% @gossips.each do |goss|%></p>
+<p>Titre du Gossip : <%= goss.title%>               Auteur du gossip : <%= goss.user.first_name%></p>
+
+<p><% end%></p>
