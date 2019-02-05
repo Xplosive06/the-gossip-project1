@@ -8,8 +8,8 @@ Place-toi dans le dossier et va ton terminal :
 5. rails server
 
 
-http://localhost:3000/team
-http://localhost:3000/contact
-http://localhost:3000/
-http://localhost:3000/welcome/salut
-http://localhost:3000/index
+- http://localhost:3000/team
+- http://localhost:3000/contact
+- http://localhost:3000/
+- http://localhost:3000/welcome/salut
+- http://localhost:3000/index
